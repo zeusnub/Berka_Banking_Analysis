@@ -114,19 +114,28 @@ The project contains 12 SQL queries organised into three phases:
 ## Repository Structure
 
 ```text
-Berka-Banking-Analytics/
+Berka_Banking_Analysis/
 │
 ├── README.md
 │
-├── SQL/
-│   ├── Berka_Banking_Analysis_Q1-Q4.sql
-│   ├── Berka_Banking_Analysis_Q5-Q8.sql
-│   └── Berka_Banking_Analysis_Q9-Q12.sql
+├── Berka_Banking_Analysis_Q1-Q4.sql
+├── Berka_Banking_Analysis_Q5-Q8.sql
+├── Berka_Banking_Analysis_Q9-Q12.sql
 │
-└── Dashboard/
-    ├── Berka_Banking_Dashboard.pdf
-    └── berka_bank_analysis.pbix
+├── Screenshot 2026-11-04 191323.png
+├── Screenshot 2026-11-04 191434.png
+│
+└── berka_bank_analysis.pbix
 ```
+
+| **File** | **Purpose** |
+|---|---|
+| `Berka_Banking_Analysis_Q1-Q4.sql` | Customer and account analytics |
+| `Berka_Banking_Analysis_Q5-Q8.sql` | Loan portfolio and repayment risk analysis |
+| `Berka_Banking_Analysis_Q9-Q12.sql` | Transaction and financial behaviour analysis |
+| `berka_bank_analysis.pbix` | Interactive Power BI dashboard project file |
+| `Screenshot 2026-11-04 191323.png` | Dashboard visualisation screenshot |
+| `Screenshot 2026-11-04 191434.png` | Dashboard visualisation screenshot |
 
 | **File** | **Purpose** |
 |---|---|
